@@ -1,9 +1,0 @@
-0: wall
-1: snow
-2: ice
-3: water
-4: tree
-5: dirt
-6: null
-7: null
-8: door
